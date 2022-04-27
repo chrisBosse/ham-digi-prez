@@ -1,3 +1,5 @@
+<!-- cSpell:ignore ardop digi Echolink mobilink soundcard WinLink -->
+<!-- cSpell:ignore APRS BPSK Contestia FSTV IRLP MFSK pactor RTTY SSTV WSJT WSPR -->
 # Digital Amateur Radio Survey
 
 A cursory glance at digital amateur radio modes, what to use, and how to do
@@ -11,7 +13,7 @@ them.
   - ??? 9 pin vs. 15 pin vs. 23 pin
   - Universal Serial Bus
     - ??? Brief overview (probably not)
-- VOX - Voice on Transmit
+- VOX - Voice on X-mit (Trans<!-- write good: is wordy or unneeded -->mit)
 - Over-driving audio
 - USB vs. LSB (always USB for digital)
 - Modem - Modulation / Demodulation
@@ -70,7 +72,7 @@ Sortable Table? with properties?
 - wiresX
 - Fusion
 - DMR
-- DSTAR
+- D-STAR
 - IRLP
 - Echolink
 - Ham Phone
@@ -88,7 +90,7 @@ Sortable Table? with properties?
 
 - FlDigi
   - Android app
-- ARPS.fi
+- APRS.fi
 - PSK Reporter
 - WSJT-X
 - VARA
