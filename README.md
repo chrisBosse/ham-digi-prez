@@ -1,5 +1,7 @@
+<!-- Software Names -->
 <!-- cSpell:ignore ardop digi Echolink mobilink soundcard WinLink -->
-<!-- cSpell:ignore APRS BPSK Contestia FSTV IRLP MFSK pactor RTTY SSTV WSJT WSPR -->
+<!-- Modes -->
+<!-- cSpell:ignore APRS BPSK CONTESTI Contestia FREEDV FREQCAL FSKH FSTV GMDSS IRLP JTMS MFSK MSKMS OFDM pactor QPSK RTTY SSTV THRB WSJT WSPR -->
 # Digital Amateur Radio Survey
 
 A cursory glance at digital amateur radio modes, what to use, and how to do
@@ -88,10 +90,81 @@ Sortable Table? with properties?
 
 ## Online Resources
 
-- FlDigi
-  - Android app
-- APRS.fi
-- PSK Reporter
+- W1HKJ home of FlDigi <http://www.w1hkj.com/>
+  - Sights and Sounds <http://www.w1hkj.com/modes/index.htm>
+  - Android App <http://www.w1hkj.com/files/AndFlmsg/>
+- APRS.fi <https://aprs.fi/>
+- PSK Reporter <https://pskreporter.info/pskmap.html>
+  - all modes
+  - FT8
+  - FT4
+  - CW
+  - PSK
+  - PSK31
+  - JS8
+  - JT65
+  - JT
+  - OLIVIA 8
+  - OPERA
+  - WSPR
+  - CONTESTI
+  - JT9
+  - ROS
+  - MSK144
+  - PI4
+  - RTTY
+  - OLIVIA
+  - PSK63
+  - FST4W
+  - Q65
+  - SSB
+  - THOR
+  - OLIVIA 1
+  - PSK125
+  - MFSK16
+  - FST4
+  - FM
+  - FSK441
+  - SSTV
+  - OLIVIA 3
+  - JT65B
+  - JTMS
+  - FREQCAL
+  - SIM31
+  - Q65A
+  - HELL
+  - RTTY-45
+  - FREEDV
+  - OLIVIA-1
+  - Q65C
+  - Q65B
+  - THOR16
+  - THOR8
+  - OFDM500F
+  - PKT
+  - DOMINO
+  - OLIVIA-8
+  - JT4
+  - JT6M
+  - THOR11
+  - G8BCG
+  - EM
+  - THOR22
+  - PSK63F
+  - PSK125RC
+  - GMDSS
+  - B
+  - PSK32
+  - THRB
+  - DL5AKF
+  - QPSK31
+  - MFSK32
+  - MSKMS
+  - MFSK8
+  - FSKH105
+  - OLIVIA 4
+  - -F-T8
+
 - WSJT-X
 - VARA
 - Winlink
@@ -99,6 +172,17 @@ Sortable Table? with properties?
 
 ## Acronyms
 
-- USB - Upper Side Band
-- USB - Universal Serial Bus
+- AM - Amplitude Modulation
+- ASK - Audio Shift Keying
+- CAT - Computer Aided Transceiver
+- FEC - Forward Error Correction
+- FM - Frequency Modulation
+- FSK - Frequency Shift Keying
 - LSB - Lower Side Band
+- MFSK - Multi<!-- write good: is wordy or unneeded -->ple Frequency Shift Keying
+- OOK - On-Off Keying
+- PSK - Phase Shift Keying
+- SSB - Single Side Band
+- USB - Universal Serial Bus
+- USB - Upper Side Band
+- VOX - Voice on X-mit (Trans<!-- write good: is wordy or unneeded -->mit)
