@@ -120,32 +120,32 @@ I do not give much time to esoteric operating, weak signal modes, nor antenna te
 
 Modes over last 2 hours
 
-| Mode | Count |
-| :-- | --: |
-| FT8 | 2,058,602 |
-| FT4 | 38,476 |
-| WSPR | 24,290 |
-| JS8 | 7,009 |
-| CW | 3,840 |
-| PSK31 | 63 |
-| FSKH105 | 42 |
-| OPERA | 34 |
-| FST4 | 17 |
-| PI4 | 16 |
-| JT65 | 14 |
-| RTTY | 14 |
-| MSK144 | 12 |
-| CONTESTI | 7 |
-| FST4W | 6 |
-| ROS | 5 |
-| JT9 | 4 |
-| SSB | 3 |
-| Q65 | 3 |
-| Q65B | 2 |
-| THOR16 | 2 |
-| THOR11 | 2 |
-| PSK63 | 2 |
-| OLIVIA 4 | 2 |
+| Mode     | Count     |
+| :--      |       --: |
+| FT8      | 2,058,602 |
+| FT4      |    38,476 |
+| WSPR     |    24,290 |
+| JS8      |     7,009 |
+| CW       |     3,840 |
+| PSK31    |        63 |
+| FSKH105  |        42 |
+| OPERA    |        34 |
+| FST4     |        17 |
+| PI4      |        16 |
+| JT65     |        14 |
+| RTTY     |        14 |
+| MSK144   |        12 |
+| CONTESTI |         7 |
+| FST4W    |         6 |
+| ROS      |         5 |
+| JT9      |         4 |
+| SSB      |         3 |
+| Q65      |         3 |
+| Q65B     |         2 |
+| THOR16   |         2 |
+| THOR11   |         2 |
+| PSK63    |         2 |
+| OLIVIA 4 |         2 |
 
 Pulled 2022-05-05T2258L  
 <https://pskreporter.info/cgi-bin/pskstats.pl>
