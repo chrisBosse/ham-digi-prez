@@ -288,6 +288,7 @@ Sortable Table? with properties?
 - FEC - Forward Error Correction
 - FM - Frequency Modulation
 - FSK - Frequency Shift Keying
+- IP - Ingress Protection (dust/water)
 - IP - Internet Protocol
 - LSB - Lower Side Band
 - MAC - Machine Access Control, 6 byte identifier for network hardware 41:43:31:45:51:20 ("AC1EO ")
