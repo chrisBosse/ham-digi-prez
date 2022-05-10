@@ -3,7 +3,7 @@
 <!-- Modes -->
 <!-- cSpell:ignore APRS BPSK CONTESTI Contestia FreeDV FREQCAL FSKH FSTV GMDSS IRLP JTMS MFSK MSKMS OFDM pactor QPSK RTTY SSTV THRB WSJT WSPR -->
 <!-- Terms -->
-<!-- cSpell:ignore Baofeng POTA prowords -->
+<!-- cSpell:ignore Baofeng hamshack hotspots NXDN POTA prowords SOTA Yaesu -->
 <!-- Comments to throw off Grammar Check -->
 <!-- cSpell:ignore iwou -->
 <!-- wg:iwou = write good: is wordy or unneeded -->
@@ -72,18 +72,25 @@ Yes, and No. I discovered the philosophical argument depends on perspective.
   - Contesting
   - Online log submission
 - internet
-  - IRLP - Internet Relay Linking Project
-  - EchoLink
-  - WinLink (also stand-alone mode)
-  - DMR, D-Star, System Fusion
+  - WebSDR - <http://www.websdr.org/>
+  - Remote Ham Radio - <https://www.remotehamradio.com/>
+  - IRLP - Internet Radio Linking Project <https://www.irlp.net/>
+  - EchoLink - <https://www.echolink.org/>
+  - WinLink - radio email (also stand-alone mode) <https://www.winlink.org/>
+  - DMR, D-Star, Yaesu System Fusion (YSF), P25, DMR+, NXDN
+    - Hotspots
+  - Hamshack Hotline - VoIP for Ham operators <https://hamshackhotline.com/>
   - Resources
     - YouTube
     - Manuals
     - Online Groups
-      - Long Island CW Club
-      - CWOps Academy
-      - Ham Radio Crash<!-- wg:iac --> Course
-      - POTA
+      - Long Island CW Club - <https://longislandcwclub.org/>
+      - CWops - CW Academy - <https://cwops.org/cw-academy/>
+      - Ham Radio Crash<!-- wg:iac --> Course - <http://hamradiocrashcourse.com/>
+      - POTA - <https://parksontheair.com/>
+      - SOTA - <https://sota.org/>
+      - IOTA - <https://www.iota-world.org/>
+    - Learn CW Online - <https://lcwo.net/>
     - Discord, Twitch
     - Software, GitHub, GitLab
     - 3D Printing, Thingiverse
@@ -368,10 +375,12 @@ Sortable Table? with properties?
   - OLIVIA 4
   - -F-T8
 
-- WSJT-X
-- VARA
-- Winlink
-- KM4ACK Build-a-Pi
+- JS8Call - <http://js8call.com/>
+- WSJT-X - FT8 program <https://physics.princeton.edu/pulsar/k1jt/wsjtx.html>
+  - GridTracker - Grid map Display <https://gridtracker.org/grid-tracker/>
+- VARA HF - <https://rosmodem.wordpress.com/2017/09/03/vara-hf-modem/>
+- Winlink - <https://www.winlink.org/>
+- KM4ACK Build-a-Pi - <https://github.com/km4ack/pi-build>
 
 ## Acronyms
 
@@ -391,6 +400,7 @@ Sortable Table? with properties?
 - NBEMS - Narrow Band Emergency Messaging Software <http://www.arrl.org/nbems>
 - OOK - On-Off Keying
 - PSK - Phase Shift Keying
+- SDR - Software Defined Radio
 - SSB - Single Side Band
 - USB - Universal Serial Bus
 - USB - Upper Side Band
