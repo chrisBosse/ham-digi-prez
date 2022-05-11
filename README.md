@@ -190,44 +190,8 @@ Pulled 2022-05-05T2258L
 
 ## Modes
 
-Sortable Table? with properties?
+Resources describing most modes, like Sights and Sounds of Digital Modes <http://www.w1hkj.com/modes/index.htm>.
 
-- is Proprietary
-- Popularity (popular, rare, waning, waxing, regional, niche)
-- is Current
-- Start date
-- Software to use
-- Hardware to use
-- is Voice capable
-- is Text capable
-- is keyboard to keyboard
-- is Data capable
-- Baud rate
-
-- CW
-- APRS - Amateur Packet Reporting System (no longer Position)
-- RTTY
-- psk31
-- BPSK
-- MFSK
-- Contestia
-- Winlink
-- Ardop
-- VARA HF
-- VARA VHF
-- FLamp
-- JS8
-- wiresX
-- Fusion
-- DMR
-- D-STAR
-- IRLP
-- Echolink
-- Ham Phone
-- FT8
-- WSPR - Whisper
-- JT8
-- Packet
 - Weather Fax
 - SSTV - Slow Scan Television
 - ALE - Automatic Link Establishment
