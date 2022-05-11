@@ -49,6 +49,10 @@ Yes, and No. I discovered the philosophical argument depends on perspective.
     - FEC (Forward Error Correction)
   - Text and Packets
   - Digital Audio Codecs
+    - Codec 2 - Open Source Speech codec  <https://www.rowetel.com/wordpress/?page_id=452>
+    - FreeDV - Open Source Amateur Digital Voice <https://freedv.org/>
+    - M17 - new digital radio protocol for data and voice <https://m17project.org/>
+    - Whisper - WSPR <https://www.wsprnet.org/drupal/wsprnet/map>
   - Digital Video???
   - etc..
 - Modulation and Demodulation (Modem)
@@ -94,39 +98,6 @@ Yes, and No. I discovered the philosophical argument depends on perspective.
     - Discord, Twitch
     - Software, GitHub, GitLab
     - 3D Printing, Thingiverse
-
-## Whiteboard Notes
-
-Figure out Audience
-
-Figure out Goal
-
-- Digi talk perspective
-  - Who - Experienced Hams trying something new
-- Overview on Terms ?
-- What is it?
-  - Is it worth it? Give reasons.
-- What do I need to get started?
-  - It depends
-    - Sound and Trans<!-- wg:iwou -->mit control
-
-I real<!-- wg:cwm -->ly want to give a Survey of Digital Modes, but that is showing off. KEEP IT SHORT!!!
-
-Leave time at end to give 1 or 2 modes a deeper dive.
-
-Print out notes - in-depth notes?
-
-Tie in stories:
-
-- Dale and J Taylor
-- Chris and Harry Bloomberg W3YJ and NBEMS
-
-Purpose:
-
-- EmComm - List of names + Supplies
-- Asynchronous Communications
-- Send Files and Links
-- Relays
 
 ## Concepts
 
@@ -182,40 +153,6 @@ Purpose:
     - Intel NUK
   - Microcontroller
     - Arduino
-
-## Who am I and What are my Interests?
-
-I like mixing computers and Amateur radio.
-
-My major interest in Amateur radio is "When all else fails."
-
-I do not give much time to internet-enabled or internet-required Amateur radio.
-
-- DMR
-- D-STAR
-- System Fusion
-
-- IRLP - Internet Radio Linking Project
-- EchoLink
-- Remote Ham Shack
-
-I do not give much time to contesting and awards.
-
-- RTTY
-- FT8
-
-I do not give much time to sending pictures, video, or digital audio.
-
-- SSTV
-- FSTV
-- Codec 2 - Open Source Speech codec  <https://www.rowetel.com/wordpress/?page_id=452>
-- FreeDV - Open Source Amateur Digital Voice <https://freedv.org/>
-- M17 - new digital radio protocol for data and voice <https://m17project.org/>
-
-I do not give much time to esoteric operating, weak signal modes, nor antenna testing.
-
-- Earth-Moon-Earth EME
-- Whisper - WSPR <https://www.wsprnet.org/drupal/wsprnet/map>
 
 ## Popular
 
