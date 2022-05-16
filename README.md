@@ -278,6 +278,16 @@ Resources describing most modes, like Sights and Sounds of Digital Modes <http:/
 
 - JS8Call - <http://js8call.com/>
 - WSJT-X - FT8 program <https://physics.princeton.edu/pulsar/k1jt/wsjtx.html>
+  - "Get Started with FT8 - An Introduction for Beginners | WSJT-X Ham Radio"<https://youtu.be/YyWX0i87P0o>  
+  Quick overview of FT8, some usage tips, GridTracker. No setup.
+  - How To Setup Your HF Radio For Digital, WSJT-X FT8 <https://youtu.be/7uxIsadUStg>  
+  HRCC, physical setup, not bad, older video, not specific
+  - WSJT-X Basics in 10 minutes <https://youtu.be/UBwdSlDnDX4>  
+  Overview of the interface. No setup.
+  - Everybody's Trying the New FT8! (#104)<https://youtu.be/zHXScGrsw-A>  
+  Great historical context.
+  - Setting up for Digital Modes, AD#25 <https://youtu.be/COmSkT06_CY>  
+  The best digital history.
   - GridTracker - Grid map Display <https://gridtracker.org/grid-tracker/>
 - VARA HF - <https://rosmodem.wordpress.com/2017/09/03/vara-hf-modem/>
 - Winlink - <https://www.winlink.org/>
