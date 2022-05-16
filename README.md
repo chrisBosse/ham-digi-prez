@@ -105,6 +105,14 @@ Yes, and No. I discovered the philosophical argument depends on perspective.
 - Serial Protocol RS-232
   - Voltage standards 15 V vs. 5 V vs. 3.3 V
   - Connectors 9 pin vs. 15 pin vs. 23 pin (Most use 2 or 3 pins: TX Data, RX Data, CTS/RTS)
+    - 8 data bits (rare 7 data bits)
+    - N (None Parity, rare E Even Parity, rare O Odd Parity)
+    - 1 Stop Bit (also 2 stop bits)
+    - Baud Rate
+      - 4800 (my old TS-440)
+      - 38400 (my (tr)uSDX)
+      - 57600 (common, Dial-up max)
+      - 115200 (probably upper limit of most USB)
     - Clear to Send or Ready to Send
   - Universal Serial Bus
     - Allows dozens of "channels"; over one medium interface
