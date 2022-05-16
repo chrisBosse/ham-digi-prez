@@ -3,8 +3,8 @@
 <!-- Modes -->
 <!-- cSpell:ignore APRS BPSK CONTESTI Contestia FreeDV FREQCAL FSKH FSTV GMDSS IRLP JTMS MFSK MSKMS OFDM pactor QPSK RTTY SSTV THRB WSJT WSPR -->
 <!-- Terms -->
-<!-- cSpell:ignore Baofeng hamshack hotspots NXDN POTA prowords SOTA Yaesu -->
-<!-- Comments to throw off Grammar Check -->
+<!-- cSpell:ignore Baofeng hamshack hotspots HRCC NXDN POTA prowords SOTA Yaesu -->
+<!-- Comments to throw off 'Write Good' linter -->
 <!-- cSpell:ignore iwou -->
 <!-- wg:iwou = write good: is wordy or unneeded -->
 <!-- wg:cwm = write good: can weaken meaning -->
@@ -311,6 +311,7 @@ Resources describing most modes, like Sights and Sounds of Digital Modes <http:/
 - FEC - Forward Error Correction
 - FM - Frequency Modulation
 - FSK - Frequency Shift Keying
+- HRCC - Ham Radio Crash<!-- wg:iac --> Course - <http://hamradiocrashcourse.com/>
 - IP - Ingress Protection (dust/water)
 - IP - Internet Protocol
 - LSB - Lower Side Band
